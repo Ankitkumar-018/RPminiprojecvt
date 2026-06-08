@@ -1,0 +1,41 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,winner,win_by_runs,win_by_wickets,player_of_match,venue
+1,2008,Bangalore,2008-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,Kolkata Knight Riders,140,0,BB McCullum,M Chinnaswamy Stadium
+2,2008,Chandigarh,2008-04-19,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,Chennai Super Kings,33,0,MEK Hussey,Punjab Cricket Association Stadium
+3,2008,Delhi,2008-04-19,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,Delhi Daredevils,0,9,AB de Villiers,Feroz Shah Kotla
+4,2008,Mumbai,2008-04-20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,5,MV Boucher,Wankhede Stadium
+5,2008,Kolkata,2008-04-20,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,Kolkata Knight Riders,0,5,SC Ganguly,Eden Gardens
+6,2008,Jaipur,2008-04-21,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,Rajasthan Royals,15,0,YK Pathan,Sawai Mansingh Stadium
+7,2008,Mumbai,2008-04-22,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,Mumbai Indians,13,0,SR Tendulkar,Wankhede Stadium
+8,2008,Bangalore,2008-04-23,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,bat,normal,Royal Challengers Bangalore,0,8,V Kohli,M Chinnaswamy Stadium
+9,2009,Johannesburg,2009-04-18,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Delhi Daredevils,0,7,V Sehwag,New Wanderers Stadium
+10,2009,Cape Town,2009-04-19,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,Rajasthan Royals,26,0,YK Pathan,Newlands Stadium
+11,2009,Centurion,2009-04-20,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,37,0,ML Hayden,SuperSport Park
+12,2009,Port Elizabeth,2009-04-20,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,Kolkata Knight Riders,0,6,CH Gayle,St George's Park
+13,2010,Mumbai,2010-03-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,Chennai Super Kings,0,1,SK Raina,Wankhede Stadium
+14,2010,Kolkata,2010-03-13,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,6,0,SR Watson,Eden Gardens
+15,2010,Delhi,2010-03-13,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Delhi Daredevils,17,0,V Sehwag,Feroz Shah Kotla
+16,2011,Bangalore,2011-04-08,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,Royal Challengers Bangalore,0,8,CH Gayle,M Chinnaswamy Stadium
+17,2011,Mumbai,2011-04-09,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,Mumbai Indians,0,8,SR Tendulkar,Wankhede Stadium
+18,2011,Delhi,2011-04-10,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,Kings XI Punjab,0,5,P Awana,Feroz Shah Kotla
+19,2012,Chennai,2012-04-04,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,Chennai Super Kings,8,0,SK Raina,MA Chidambaram Stadium
+20,2012,Kolkata,2012-04-05,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,normal,Kolkata Knight Riders,0,9,G Gambhir,Eden Gardens
+21,2012,Bangalore,2012-04-06,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,normal,Royal Challengers Bangalore,130,0,CH Gayle,M Chinnaswamy Stadium
+22,2013,Kolkata,2013-04-03,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,bat,normal,Kolkata Knight Riders,0,7,MK Pandey,Eden Gardens
+23,2013,Bangalore,2013-04-04,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,2,KA Pollard,M Chinnaswamy Stadium
+24,2013,Chennai,2013-04-05,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,Chennai Super Kings,0,8,S Dhawan,MA Chidambaram Stadium
+25,2014,Dubai,2014-04-16,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,Kings XI Punjab,97,0,WP Saha,Dubai International Cricket Stadium
+26,2014,Abu Dhabi,2014-04-16,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,Kolkata Knight Riders,41,0,R Bhatia,Sheikh Zayed Stadium
+27,2015,Kolkata,2015-04-08,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,normal,Kolkata Knight Riders,0,6,SP Narine,Eden Gardens
+28,2015,Chennai,2015-04-09,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,field,normal,Delhi Daredevils,0,1,TA Boult,MA Chidambaram Stadium
+29,2016,Mumbai,2016-04-09,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,field,normal,Mumbai Indians,0,8,JJ Bumrah,Wankhede Stadium
+30,2016,Kolkata,2016-04-10,Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,bat,normal,Gujarat Lions,0,7,BB McCullum,Eden Gardens
+31,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,Sunrisers Hyderabad,35,0,DA Warner,Rajiv Gandhi International Stadium
+32,2017,Kolkata,2017-04-06,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,bat,normal,Kolkata Knight Riders,0,10,G Gambhir,Eden Gardens
+33,2017,Pune,2017-04-07,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,normal,Mumbai Indians,0,7,JJ Bumrah,Maharashtra Cricket Association Stadium
+34,2018,Mumbai,2018-04-07,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,normal,Chennai Super Kings,0,1,SR Watson,Wankhede Stadium
+35,2018,Kolkata,2018-04-08,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,Rajasthan Royals,0,7,JC Buttler,Eden Gardens
+36,2019,Chennai,2019-03-23,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,Chennai Super Kings,7,0,S Dhawan,MA Chidambaram Stadium
+37,2019,Kolkata,2019-03-24,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,Kolkata Knight Riders,0,6,SP Narine,Eden Gardens
+38,2020,Dubai,2020-09-19,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,normal,Mumbai Indians,0,5,SK Raina,Dubai International Cricket Stadium
+39,2020,Abu Dhabi,2020-09-20,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,normal,Kings XI Punjab,0,5,M Stoinis,Sheikh Zayed Stadium
+40,2021,Chennai,2021-04-09,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,normal,Royal Challengers Bangalore,0,2,GJ Maxwell,MA Chidambaram Stadium

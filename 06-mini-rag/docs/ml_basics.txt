@@ -1,0 +1,65 @@
+DOCUMENT: Introduction to Machine Learning
+SOURCE: Study Notes — Chapter 1-3
+
+== What is Machine Learning? ==
+
+Machine learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed. Instead of writing rules by hand, we feed examples to an algorithm, and it figures out the rules on its own.
+
+There are three main types of machine learning:
+1. Supervised Learning — the algorithm learns from labelled examples (input + correct output pairs). Examples: spam detection, image classification, house price prediction.
+2. Unsupervised Learning — the algorithm finds patterns in unlabelled data. Examples: customer segmentation, anomaly detection, topic modelling.
+3. Reinforcement Learning — an agent learns by taking actions in an environment and receiving rewards or penalties. Examples: game playing (AlphaGo), robot control, recommendation systems.
+
+== What is a Model? ==
+
+A model is a mathematical function that maps inputs to outputs. Training a model means finding the best set of parameters (weights) for that function so that its predictions closely match the true outputs in the training data.
+
+The training process minimises a loss function — a measure of how wrong the model's predictions are. Common loss functions include Mean Squared Error (for regression) and Cross-Entropy Loss (for classification).
+
+== Overfitting and Underfitting ==
+
+Overfitting happens when a model learns the training data too well, including its noise, and performs poorly on new, unseen data. It has high variance.
+
+Underfitting happens when a model is too simple to capture the patterns in the data. It has high bias and performs poorly even on the training data.
+
+The goal is to find the sweet spot in between — a model that generalises well. Techniques to prevent overfitting include: regularisation (L1/L2), dropout, early stopping, and cross-validation.
+
+== Train, Validation, and Test Sets ==
+
+Data is split into three parts:
+- Training set (~70%): used to train the model
+- Validation set (~15%): used to tune hyperparameters and compare models
+- Test set (~15%): held out until the very end to evaluate final model performance
+
+Never use the test set during development. Using it repeatedly leads to overfitting to the test set.
+
+== Feature Engineering ==
+
+Feature engineering is the process of selecting, transforming, or creating input variables to improve model performance. It is often more impactful than the choice of algorithm.
+
+Common techniques: normalisation (scaling features to 0-1), standardisation (zero mean, unit variance), one-hot encoding (for categorical variables), log transform (for skewed distributions), and polynomial features.
+
+== Common Algorithms ==
+
+Linear Regression: predicts a continuous value. Fits a straight line to the data.
+Logistic Regression: binary classification despite its name. Outputs a probability using the sigmoid function.
+Decision Tree: splits data at each node based on a feature threshold. Easy to interpret.
+Random Forest: ensemble of decision trees. Reduces overfitting through averaging.
+Support Vector Machine (SVM): finds the hyperplane with maximum margin between classes.
+K-Nearest Neighbours (KNN): classifies a point based on the majority class among its K nearest neighbours.
+Neural Networks: layers of interconnected nodes inspired by the brain. Excellent for images, text, speech.
+
+== Model Evaluation Metrics ==
+
+For Classification:
+- Accuracy: percentage of correct predictions
+- Precision: of all positive predictions, how many were actually positive
+- Recall (Sensitivity): of all actual positives, how many were correctly predicted
+- F1 Score: harmonic mean of precision and recall
+- ROC-AUC: area under the receiver operating characteristic curve
+
+For Regression:
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R-squared (coefficient of determination)

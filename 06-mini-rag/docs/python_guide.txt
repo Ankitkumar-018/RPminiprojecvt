@@ -1,0 +1,132 @@
+DOCUMENT: Python Programming Guide
+SOURCE: Study Notes — Core Python Concepts
+
+== Python Data Types ==
+
+Python has several built-in data types:
+- int: whole numbers (e.g., 42, -7)
+- float: decimal numbers (e.g., 3.14, -0.5)
+- str: text enclosed in quotes (e.g., "hello", 'world')
+- bool: True or False
+- list: ordered, mutable collection (e.g., [1, 2, 3])
+- tuple: ordered, immutable collection (e.g., (1, 2, 3))
+- dict: key-value pairs (e.g., {"name": "Arjun", "age": 22})
+- set: unordered collection of unique values (e.g., {1, 2, 3})
+
+== Functions ==
+
+Functions are defined with the def keyword. They take parameters and return values.
+
+def greet(name, greeting="Hello"):
+    return f"{greeting}, {name}!"
+
+result = greet("Priya")  # returns "Hello, Priya!"
+result2 = greet("Rahul", "Namaste")  # returns "Namaste, Rahul!"
+
+Lambda functions are single-line anonymous functions:
+square = lambda x: x ** 2
+
+== List Comprehensions ==
+
+List comprehensions provide a concise way to create lists.
+squares = [x**2 for x in range(10)]
+even_squares = [x**2 for x in range(10) if x % 2 == 0]
+
+Dict comprehensions work similarly:
+word_lengths = {word: len(word) for word in ["python", "java", "rust"]}
+
+== File Handling ==
+
+Reading a file:
+with open("myfile.txt", "r") as f:
+    content = f.read()      # reads entire file as string
+    lines = f.readlines()   # reads as list of lines
+
+Writing a file:
+with open("output.txt", "w") as f:
+    f.write("Hello, world!")
+
+The 'with' statement ensures the file is closed automatically even if an error occurs.
+
+== Error Handling ==
+
+try:
+    result = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+except (TypeError, ValueError) as e:
+    print(f"Type or value error: {e}")
+finally:
+    print("This always runs")
+
+You can raise your own exceptions:
+raise ValueError("Invalid input: must be positive")
+
+== Object-Oriented Programming ==
+
+class Animal:
+    def __init__(self, name, species):
+        self.name = name
+        self.species = species
+
+    def speak(self):
+        return f"{self.name} makes a sound"
+
+class Dog(Animal):
+    def speak(self):
+        return f"{self.name} says Woof!"
+
+dog = Dog("Buddy", "Canis lupus")
+print(dog.speak())  # "Buddy says Woof!"
+
+Key OOP concepts: encapsulation, inheritance, polymorphism, abstraction.
+
+== Modules and Imports ==
+
+import math
+from collections import Counter, defaultdict
+import os
+import sys
+
+Standard library modules you should know: os, sys, re, json, datetime, collections, itertools, functools.
+
+== Common String Methods ==
+
+text = "  Hello, World!  "
+text.strip()         # "Hello, World!" — removes whitespace
+text.lower()         # "  hello, world!  "
+text.upper()         # "  HELLO, WORLD!  "
+text.replace("World", "Python")  # "  Hello, Python!  "
+text.split(", ")     # ["  Hello", "World!  "]
+", ".join(["a", "b", "c"])  # "a, b, c"
+"hello".startswith("he")   # True
+"hello".find("ll")         # 2 (index) or -1 if not found
+
+== Decorators ==
+
+A decorator is a function that wraps another function to add behaviour.
+
+def timer(func):
+    import time
+    def wrapper(*args, **kwargs):
+        start = time.time()
+        result = func(*args, **kwargs)
+        print(f"{func.__name__} took {time.time()-start:.4f}s")
+        return result
+    return wrapper
+
+@timer
+def slow_function():
+    import time
+    time.sleep(1)
+
+== Virtual Environments ==
+
+Always use a virtual environment to isolate project dependencies.
+
+python -m venv venv          # create virtual environment
+source venv/bin/activate     # activate on Mac/Linux
+venv\Scripts\activate        # activate on Windows
+pip install package-name     # install packages
+pip freeze > requirements.txt  # save dependencies
+deactivate                   # exit virtual environment

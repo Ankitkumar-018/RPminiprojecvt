@@ -1,0 +1,36 @@
+--- JOB POSTING 1 ---
+We're hiring!! Backend Engineer at TechCorp Bangalore
+
+So we need someone who can build stuff with Python mainly, maybe some Node too.
+You should know REST APIs, databases (postgres preferred but mysql ok),
+docker is a must these days. AWS/GCP experience is a big plus.
+We want 3-5 years experience. The pay is competitive, somewhere between 18-25 LPA
+depending on experience. It's a full-time permanent role, hybrid work (3 days office Bangalore).
+Send your resume to careers@techcorp.in if interested.
+
+What you'll do: Design and build backend microservices, write clean code with tests,
+collaborate with frontend team, deploy on cloud, optimize queries, code reviews.
+
+--- JOB POSTING 2 ---
+Product Designer Needed - Startup in Mumbai (Remote OK!)
+
+Hey! Growing fintech startup looking for a talented product designer.
+Must know Figma, basic prototyping, user research skills. Bonus if you've worked
+on mobile apps before. We don't care much about years of experience - show us your portfolio.
+Salary: 12-18 LPA. Contract to hire - 6 month contract then full time if it works out.
+100% remote role. Apply at: design@fintechstartup.com
+
+You will: Create wireframes and prototypes, run user interviews, work closely with PM and engineers,
+maintain design system, iterate based on user feedback.
+
+--- JOB POSTING 3 ---
+Data Scientist - Retail Analytics (Delhi NCR)
+
+Looking for data scientist with strong Python and SQL skills, machine learning background
+(scikit-learn, xgboost, maybe some deep learning). Must have exp with big data tools like Spark
+or at least Pandas at scale. Statistics fundamentals are non-negotiable. 5+ years needed.
+Range: 25-35 LPA. Full time, office based (Gurugram), some WFH flexibility.
+Email jobs@retailco.com with your resume and a short note about your best project.
+
+Responsibilities: Build predictive models for demand forecasting, customer segmentation,
+pricing optimization. Present findings to non-technical stakeholders. Own the end-to-end ML pipeline.

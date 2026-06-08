@@ -1,0 +1,88 @@
+DOCUMENT: Tech Career Guide for Students
+SOURCE: Placement Preparation Notes
+
+== Resume Tips ==
+
+A strong tech resume should be one page (for students and early career). Use the following format:
+- Header: Name, phone, email, LinkedIn, GitHub
+- Summary (2-3 lines): your specialisation and what you're looking for
+- Education: degree, university, CGPA (only include if above 7.0)
+- Projects: 2-3 projects with tech stack, your role, and measurable impact
+- Skills: programming languages, frameworks, tools — organised by category
+- Internships/Experience: company, role, duration, what you built
+- Certifications (optional): only relevant ones
+
+Avoid: photos, personal details like DOB/religion/marital status, excessive formatting, lies.
+Use action verbs: Built, Designed, Implemented, Optimised, Reduced, Increased, Led.
+
+== Common Interview Rounds ==
+
+Most product companies follow this process:
+1. Resume shortlisting — ATS and HR screen your resume
+2. Online Assessment (OA) — 2-3 DSA problems on HackerRank/LeetCode
+3. Technical Round 1 — DSA problems, solved live with explanation
+4. Technical Round 2 — System design (for SDE-2+) or more DSA/CS fundamentals
+5. HR Round — Behavioural questions, salary negotiation, cultural fit
+
+For freshers, rounds 2-3 are most important. Focus on DSA.
+
+== DSA Preparation Topics ==
+
+Priority order for placement prep:
+1. Arrays and Strings (most common)
+2. Hashmaps and HashSets
+3. Two Pointers and Sliding Window
+4. Stacks and Queues
+5. Linked Lists
+6. Binary Search
+7. Recursion and Backtracking
+8. Trees (BFS, DFS, BST operations)
+9. Heaps and Priority Queues
+10. Dynamic Programming (essential for top companies)
+11. Graphs (BFS, DFS, shortest paths)
+
+Recommended practice: LeetCode — aim for 100+ problems (at least 70 medium, 20 hard).
+
+== Salary Ranges in India (2025) ==
+
+Software Engineer / SDE-1 (Fresher):
+- Service companies (TCS, Infosys, Wipro): 3.5 – 7 LPA
+- Mid-tier product (Flipkart, Meesho, Swiggy): 12 – 20 LPA
+- Top-tier product (Google, Microsoft, Amazon): 20 – 45 LPA (base + bonus + stocks)
+- Startups: highly variable, 8 – 25 LPA (check ESOP carefully)
+
+== How to Negotiate Salary ==
+
+1. Never reveal your current/expected salary first — let them make an offer
+2. Research the market rate on Glassdoor, Levels.fyi, LinkedIn Salary
+3. Always negotiate — 80% of offers have room to move up
+4. Negotiate base salary first, then sign-on bonus, then stocks
+5. Get the offer in writing before accepting
+
+Common response: "Based on my research and the market rate for this role, I was expecting something in the range of X-Y LPA. Is there flexibility?"
+
+== Building a Portfolio ==
+
+Projects that stand out to recruiters:
+- Full-stack web application (React + Node/Django/Flask + database)
+- Machine learning project with a deployed API (not just a Jupyter notebook)
+- CLI tool or automation script that solves a real problem
+- Open source contribution (even one merged PR matters)
+- Anything with measurable results ("reduced load time by 40%", "processed 1M records")
+
+Host everything on GitHub. Write a good README for each project (you are doing this right now).
+
+== Soft Skills That Matter ==
+
+Communication: explain your code clearly; recruiters evaluate this heavily in technical rounds.
+Problem decomposition: break a complex problem into smaller parts before coding.
+Time management: in interviews, solve easy parts first, mention edge cases.
+Asking clarifying questions: always clarify requirements before diving into a solution.
+Handling ambiguity: real-world problems are vague; learn to make reasonable assumptions.
+
+== Top Companies Hiring in India ==
+
+Tier 1 (highest pay, hardest interviews): Google, Microsoft, Amazon, Adobe, Atlassian, Uber
+Tier 2 (great pay, competitive): Flipkart, Meesho, Swiggy, Zomato, PhonePe, CRED
+Tier 3 (decent pay, good learning): Freshworks, Razorpay, MakeMyTrip, Ola, Juspay
+Service companies (volume hiring): TCS, Infosys, Wipro, Cognizant, Capgemini
