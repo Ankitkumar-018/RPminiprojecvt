@@ -1,0 +1,61 @@
+order_id,category,origin_city,destination_city,distance_km,weight_kg,fragile,warehouse_to_pickup_hrs,carrier,season,payment_mode,actual_delivery_days,promised_delivery_days
+D001,Electronics,Mumbai,Delhi,1415,2.5,Yes,3,BlueDart,Winter,Online,6,5
+D002,Clothing,Delhi,Bangalore,2150,1.2,No,1,Delhivery,Summer,COD,7,5
+D003,Food,Chennai,Mumbai,1338,0.8,No,2,Ecom Express,Monsoon,Online,4,4
+D004,Electronics,Bangalore,Kolkata,1871,3.8,Yes,5,BlueDart,Winter,Online,8,5
+D005,Books,Pune,Delhi,1409,2.1,No,1,India Post,Summer,Online,5,4
+D006,Furniture,Mumbai,Chennai,1338,22.0,No,4,Rivigo,Monsoon,Online,9,6
+D007,Clothing,Kolkata,Mumbai,2050,1.5,No,2,Delhivery,Winter,COD,6,5
+D008,Electronics,Delhi,Chennai,2185,4.2,Yes,6,BlueDart,Summer,Online,7,5
+D009,Food,Hyderabad,Delhi,1536,0.6,No,1,Ecom Express,Monsoon,Online,3,3
+D010,Books,Mumbai,Kolkata,2085,3.0,No,2,India Post,Winter,Online,6,5
+D011,Clothing,Chennai,Delhi,2185,1.8,No,3,Delhivery,Summer,COD,8,5
+D012,Electronics,Delhi,Bangalore,2150,5.5,Yes,7,BlueDart,Monsoon,Online,9,6
+D013,Furniture,Bangalore,Mumbai,984,18.0,No,4,Rivigo,Winter,Online,6,5
+D014,Food,Delhi,Chennai,2185,1.2,No,1,Ecom Express,Summer,Online,4,3
+D015,Books,Kolkata,Bangalore,1871,2.5,No,2,India Post,Monsoon,Online,7,5
+D016,Clothing,Mumbai,Hyderabad,709,1.0,No,1,Delhivery,Winter,COD,3,3
+D017,Electronics,Chennai,Kolkata,1659,3.1,Yes,5,BlueDart,Summer,Online,7,5
+D018,Food,Bangalore,Delhi,2150,0.9,No,2,Ecom Express,Monsoon,Online,5,4
+D019,Books,Delhi,Mumbai,1415,1.8,No,1,India Post,Winter,Online,4,4
+D020,Furniture,Hyderabad,Kolkata,1712,25.0,No,6,Rivigo,Summer,Online,11,7
+D021,Clothing,Mumbai,Bangalore,984,1.3,No,2,Delhivery,Monsoon,COD,4,4
+D022,Electronics,Delhi,Kolkata,1531,6.0,Yes,8,BlueDart,Winter,Online,10,6
+D023,Food,Chennai,Bangalore,346,0.7,No,1,Ecom Express,Summer,Online,2,2
+D024,Books,Kolkata,Delhi,1531,2.8,No,2,India Post,Monsoon,Online,5,4
+D025,Clothing,Bangalore,Chennai,346,1.6,No,1,Delhivery,Winter,COD,2,3
+D026,Electronics,Mumbai,Kolkata,2085,4.8,Yes,6,BlueDart,Summer,Online,8,5
+D027,Food,Delhi,Hyderabad,1536,1.1,No,1,Ecom Express,Monsoon,Online,4,3
+D028,Furniture,Chennai,Mumbai,1338,20.0,No,5,Rivigo,Winter,Online,8,6
+D029,Books,Bangalore,Kolkata,1871,3.2,No,2,India Post,Summer,Online,6,5
+D030,Clothing,Kolkata,Chennai,1659,1.4,No,3,Delhivery,Monsoon,COD,7,5
+D031,Electronics,Hyderabad,Mumbai,709,2.9,Yes,4,BlueDart,Winter,Online,5,4
+D032,Food,Mumbai,Bangalore,984,0.8,No,1,Ecom Express,Summer,Online,3,3
+D033,Books,Delhi,Kolkata,1531,2.2,No,1,India Post,Monsoon,Online,4,4
+D034,Clothing,Chennai,Hyderabad,627,1.7,No,2,Delhivery,Winter,COD,4,3
+D035,Electronics,Kolkata,Delhi,1531,5.2,Yes,7,BlueDart,Summer,Online,9,5
+D036,Food,Bangalore,Hyderabad,570,0.9,No,1,Ecom Express,Monsoon,Online,2,2
+D037,Furniture,Mumbai,Delhi,1415,30.0,No,8,Rivigo,Winter,Online,12,7
+D038,Books,Hyderabad,Bangalore,570,1.9,No,1,India Post,Summer,Online,3,3
+D039,Clothing,Delhi,Hyderabad,1536,1.3,No,2,Delhivery,Monsoon,COD,5,4
+D040,Electronics,Mumbai,Chennai,1338,3.5,Yes,5,BlueDart,Winter,Online,7,5
+D041,Food,Kolkata,Hyderabad,1712,1.0,No,2,Ecom Express,Summer,Online,4,4
+D042,Books,Chennai,Pune,1036,2.4,No,1,India Post,Monsoon,Online,4,4
+D043,Clothing,Bangalore,Delhi,2150,1.8,No,3,Delhivery,Winter,COD,8,5
+D044,Electronics,Delhi,Mumbai,1415,4.1,Yes,6,BlueDart,Summer,Online,8,5
+D045,Furniture,Kolkata,Mumbai,2050,16.0,No,5,Rivigo,Monsoon,Online,10,7
+D046,Food,Hyderabad,Chennai,627,0.7,No,1,Ecom Express,Winter,Online,2,2
+D047,Books,Mumbai,Pune,148,1.6,No,1,India Post,Summer,Online,2,2
+D048,Clothing,Delhi,Kolkata,1531,1.5,No,2,Delhivery,Monsoon,COD,6,5
+D049,Electronics,Chennai,Delhi,2185,5.8,Yes,9,BlueDart,Winter,Online,11,6
+D050,Food,Bangalore,Mumbai,984,0.8,No,1,Ecom Express,Summer,Online,3,3
+D051,Books,Kolkata,Hyderabad,1712,2.7,No,2,India Post,Monsoon,Online,6,5
+D052,Clothing,Mumbai,Delhi,1415,1.9,No,2,Delhivery,Winter,COD,5,4
+D053,Electronics,Hyderabad,Kolkata,1712,3.3,Yes,5,BlueDart,Summer,Online,7,5
+D054,Food,Delhi,Bangalore,2150,1.0,No,1,Ecom Express,Monsoon,Online,5,4
+D055,Furniture,Bangalore,Kolkata,1871,19.0,No,6,Rivigo,Winter,Online,9,6
+D056,Books,Chennai,Kolkata,1659,2.9,No,2,India Post,Summer,Online,6,5
+D057,Clothing,Kolkata,Bangalore,1871,1.6,No,3,Delhivery,Monsoon,COD,7,5
+D058,Electronics,Mumbai,Hyderabad,709,4.5,Yes,5,BlueDart,Winter,Online,6,4
+D059,Food,Bangalore,Chennai,346,0.9,No,1,Ecom Express,Summer,Online,2,2
+D060,Books,Delhi,Hyderabad,1536,2.3,No,1,India Post,Monsoon,Online,5,4

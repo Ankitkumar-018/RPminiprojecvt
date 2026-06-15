@@ -1,0 +1,71 @@
+order_id,customer_id,category,city,state,order_date,delivery_date,order_value,units,discount_pct,returned,rating
+O001,C012,Electronics,Mumbai,Maharashtra,2024-01-05,2024-01-10,12500,1,10,No,4.5
+O002,C034,Clothing,Delhi,Delhi,2024-01-06,2024-01-09,2300,3,5,No,4.0
+O003,C056,Food,Bangalore,Karnataka,2024-01-07,2024-01-08,850,5,0,No,4.2
+O004,C078,Books,Chennai,Tamil Nadu,2024-01-08,2024-01-13,1200,2,15,No,3.8
+O005,C012,Electronics,Mumbai,Maharashtra,2024-01-10,2024-01-15,8900,1,0,No,4.7
+O006,C090,Clothing,Hyderabad,Telangana,2024-01-11,2024-01-14,3400,4,10,No,3.5
+O007,C102,Books,Pune,Maharashtra,2024-01-12,2024-01-15,950,1,0,No,4.1
+O008,C034,Food,Delhi,Delhi,2024-01-13,2024-01-14,1100,8,5,No,4.3
+O009,C124,Electronics,Kolkata,West Bengal,2024-01-14,2024-01-20,22000,1,20,Yes,2.5
+O010,C136,Clothing,Ahmedabad,Gujarat,2024-01-15,2024-01-18,1800,2,0,No,4.0
+O011,C056,Food,Bangalore,Karnataka,2024-01-16,2024-01-17,650,4,0,No,4.4
+O012,C148,Electronics,Jaipur,Rajasthan,2024-01-17,2024-01-22,15600,1,5,No,4.6
+O013,C160,Clothing,Lucknow,Uttar Pradesh,2024-01-18,2024-01-21,2100,3,10,No,3.9
+O014,C012,Books,Mumbai,Maharashtra,2024-01-20,2024-01-23,780,1,0,No,4.2
+O015,C172,Electronics,Bhopal,Madhya Pradesh,2024-01-21,2024-01-28,9800,1,15,Yes,2.8
+O016,C184,Food,Surat,Gujarat,2024-01-22,2024-01-23,420,3,0,No,4.5
+O017,C196,Clothing,Indore,Madhya Pradesh,2024-01-23,2024-01-26,3100,4,5,No,4.1
+O018,C078,Electronics,Chennai,Tamil Nadu,2024-01-24,2024-01-29,18200,1,0,Yes,3.0
+O019,C208,Books,Nagpur,Maharashtra,2024-01-25,2024-01-28,1450,2,10,No,3.7
+O020,C220,Clothing,Coimbatore,Tamil Nadu,2024-01-26,2024-01-29,2700,3,0,No,4.0
+O021,C232,Food,Kochi,Kerala,2024-01-27,2024-01-28,580,4,0,No,4.6
+O022,C244,Electronics,Patna,Bihar,2024-01-28,2024-02-03,11200,1,10,No,4.3
+O023,C034,Clothing,Delhi,Delhi,2024-02-01,2024-02-04,1900,2,5,No,4.2
+O024,C256,Books,Chandigarh,Punjab,2024-02-02,2024-02-05,890,1,0,No,4.0
+O025,C268,Electronics,Visakhapatnam,Andhra Pradesh,2024-02-03,2024-02-08,14500,1,20,No,4.4
+O026,C280,Food,Vadodara,Gujarat,2024-02-04,2024-02-05,730,6,0,No,4.3
+O027,C292,Clothing,Agra,Uttar Pradesh,2024-02-05,2024-02-08,2500,3,10,No,3.8
+O028,C012,Electronics,Mumbai,Maharashtra,2024-02-07,2024-02-11,7200,1,0,No,4.8
+O029,C304,Books,Rajkot,Gujarat,2024-02-08,2024-02-11,1100,2,5,No,3.9
+O030,C316,Food,Meerut,Uttar Pradesh,2024-02-09,2024-02-10,480,3,0,No,4.1
+O031,C328,Electronics,Nashik,Maharashtra,2024-02-10,2024-02-16,19800,1,15,No,4.5
+O032,C340,Clothing,Faridabad,Haryana,2024-02-11,2024-02-14,1700,2,0,No,4.2
+O033,C056,Books,Bangalore,Karnataka,2024-02-12,2024-02-15,1350,2,10,No,4.0
+O034,C352,Food,Guwahati,Assam,2024-02-13,2024-02-14,620,5,0,No,4.7
+O035,C364,Electronics,Raipur,Chhattisgarh,2024-02-14,2024-02-20,8900,1,5,Yes,2.2
+O036,C376,Clothing,Thiruvananthapuram,Kerala,2024-02-15,2024-02-18,3200,4,10,No,4.1
+O037,C388,Books,Ranchi,Jharkhand,2024-02-16,2024-02-19,760,1,0,No,3.8
+O038,C400,Food,Bhubaneswar,Odisha,2024-02-17,2024-02-18,890,7,0,No,4.4
+O039,C124,Electronics,Kolkata,West Bengal,2024-02-18,2024-02-23,13400,1,10,No,4.6
+O040,C412,Clothing,Dehradun,Uttarakhand,2024-02-19,2024-02-22,2000,2,5,No,3.9
+O041,C424,Food,Jodhpur,Rajasthan,2024-02-20,2024-02-21,540,4,0,No,4.2
+O042,C436,Electronics,Mysore,Karnataka,2024-02-21,2024-02-27,16700,1,20,No,4.7
+O043,C012,Books,Mumbai,Maharashtra,2024-02-23,2024-02-26,920,1,0,No,4.3
+O044,C448,Clothing,Vijayawada,Andhra Pradesh,2024-02-24,2024-02-27,2800,3,5,No,4.0
+O045,C460,Food,Amritsar,Punjab,2024-02-25,2024-02-26,710,5,0,No,4.5
+O046,C472,Electronics,Srinagar,Jammu & Kashmir,2024-02-26,2024-03-03,21500,1,0,No,4.4
+O047,C484,Clothing,Aurangabad,Maharashtra,2024-02-27,2024-03-01,1600,2,10,No,3.7
+O048,C056,Food,Bangalore,Karnataka,2024-03-01,2024-03-02,780,6,0,No,4.6
+O049,C496,Books,Hubli,Karnataka,2024-03-02,2024-03-05,840,1,0,No,3.9
+O050,C508,Electronics,Mangalore,Karnataka,2024-03-03,2024-03-08,10200,1,15,No,4.5
+O051,C034,Clothing,Delhi,Delhi,2024-03-04,2024-03-07,3500,5,10,No,4.3
+O052,C520,Food,Tiruchirappalli,Tamil Nadu,2024-03-05,2024-03-06,590,4,0,No,4.4
+O053,C532,Electronics,Salem,Tamil Nadu,2024-03-06,2024-03-12,12800,1,5,Yes,2.6
+O054,C544,Books,Warangal,Telangana,2024-03-07,2024-03-10,1050,2,10,No,4.0
+O055,C556,Clothing,Guntur,Andhra Pradesh,2024-03-08,2024-03-11,2400,3,0,No,4.1
+O056,C568,Food,Bhilai,Chhattisgarh,2024-03-09,2024-03-10,450,3,0,No,4.3
+O057,C580,Electronics,Bareilly,Uttar Pradesh,2024-03-10,2024-03-16,9500,1,20,No,4.2
+O058,C592,Clothing,Gorakhpur,Uttar Pradesh,2024-03-11,2024-03-14,1950,2,5,No,3.8
+O059,C604,Books,Aligarh,Uttar Pradesh,2024-03-12,2024-03-15,680,1,0,No,3.6
+O060,C616,Food,Solapur,Maharashtra,2024-03-13,2024-03-14,820,6,0,No,4.5
+O061,C628,Electronics,Jalandhar,Punjab,2024-03-14,2024-03-19,17300,1,10,No,4.6
+O062,C012,Clothing,Mumbai,Maharashtra,2024-03-16,2024-03-19,2900,4,0,No,4.4
+O063,C640,Food,Madurai,Tamil Nadu,2024-03-17,2024-03-18,650,5,0,No,4.3
+O064,C652,Electronics,Kozhikode,Kerala,2024-03-18,2024-03-24,11900,1,15,No,4.5
+O065,C664,Books,Thiruvananthapuram,Kerala,2024-03-19,2024-03-22,980,1,5,No,4.1
+O066,C078,Food,Chennai,Tamil Nadu,2024-03-20,2024-03-21,720,5,0,No,4.4
+O067,C676,Electronics,Kota,Rajasthan,2024-03-21,2024-03-27,8800,1,0,Yes,2.9
+O068,C688,Clothing,Gwalior,Madhya Pradesh,2024-03-22,2024-03-25,2200,3,10,No,4.0
+O069,C700,Books,Jamshedpur,Jharkhand,2024-03-23,2024-03-26,1100,2,0,No,4.2
+O070,C712,Food,Dhanbad,Jharkhand,2024-03-24,2024-03-25,560,4,0,No,4.6

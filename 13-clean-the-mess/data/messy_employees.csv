@@ -1,0 +1,32 @@
+emp_id,name,age,gender,department,salary,joining_date,city,experience_years,performance_rating
+E001,Arjun Sharma,28,Male,Engineering,₹85000,2021-03-15,Bangalore,3,4.2
+E002,priya mehta,32,F,Marketing,90000 INR,15/04/2019,mumbai,5,3.8
+E003,RAHUL VERMA,25,male,engineering,75K,2022-01-10,Bangalore,1,4.5
+E004,Sneha Patel,29,Female,HR,"₹65,000",2020-07-22,Ahmedabad,4,3.5
+E001,Arjun Sharma,28,Male,Engineering,₹85000,2021-03-15,Bangalore,3,4.2
+E005,Amit Kumar,35,M,Finance,1200000,2018-11-05,Delhi,7,4.8
+E006,Divya Nair,,Female,Marketing,₹78000,22nd June 2020,Kochi,4,3.9
+E007,Kiran Reddy,27,male,engineering,82000,2022-08-30,Hyderabad,2,4.1
+E008,Anjali Singh,250,Female,HR,₹55000,2023-01-15,Lucknow,0,3.2
+E009,Rohit Gupta,31,Male,Finance,₹95000,2019-09-12,Delhi,6,4.6
+E010,Meera Iyer,26,FEMALE,marketing,67000 INR,2022-05-18,Chennai,2,3.7
+E011,Vikram Joshi,33,Male,Engineering,"₹1,10,000",2018-06-25,Pune,8,4.9
+E012,Lakshmi Devi,30,female,HR,₹70000,30/11/2020,Hyderabad,4,3.6
+E013,Suresh Nair,28,Male,Finance,-5000,2021-10-08,Kochi,3,4.0
+E014,Pooja Rao,29,Female,Marketing,₹72000,2020-12-01,Bangalore,4,
+E015,Deepak Tiwari,34,M,Engineering,₹98000,07-03-2017,Lucknow,9,4.7
+E016,  Anita Desai  ,31,Female,finance,₹68000,2019-08-14,Mumbai,5,3.8
+E017,Manish Gupta,27,Male,Marketing,₹76000,2022-09-20,Delhi,2,4.2
+E018,Kavya Krishnan,N/A,Female,HR,₹58000,2023-03-10,Chennai,,3.1
+E019,Ravi Shankar,36,Male,Engineering,₹105000,2017-04-22,Bangalore,9,4.8
+E020,Sonal Shah,29,female,marketing,74000,25th Aug 2020,Ahmedabad,4,3.9
+E021,Arun Nambiar,32,Male,Finance,₹88000,2019-11-30,Kochi,6,4.4
+E022,Preethi Rao,26,Female,Engineering,₹80000,2022-07-05,Chennai,2,4.3
+E023,Deepak Tiwari,34,M,Engineering,₹98000,07-03-2017,Lucknow,9,4.7
+E024,Harish Pillai,30,Male,hr,₹62000,2020-09-18,Trivandrum,4,3.5
+E025,Nandini Verma,28,Female,Marketing,₹71000,2021-06-12,Jaipur,3,4.0
+E026,Sameer Khan,33,male,Finance,₹92000,2018-02-28,Mumbai,7,4.5
+E027,Lavanya Suresh,27,FEMALE,Engineering,₹83000,2022-04-15,Coimbatore,2,4.2
+E028,Rajesh Kumar,999,Male,HR,₹59000,2023-05-20,Patna,0,3.3
+E029,Meghna Pillai,31,Female,finance,₹87000,2019-07-09,Trivandrum,5,4.1
+E030,Gautam Bose,35,Male,Engineering,₹112000,2017-01-15,Kolkata,9,4.9
